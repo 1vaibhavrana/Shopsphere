@@ -41,7 +41,7 @@ const Verify = () => {
     }, [token])
 
     return (
-        <div>
+        <div className='text-white'>
 
         </div>
     )
